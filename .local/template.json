@@ -1,0 +1,24 @@
+{
+  "DefaultProjectDescription": "NewBusinessProcessProjectDefaultDescription",
+  "DefaultProjectName": "NewBusinessProcessProjectDefaultName",
+  "Dependencies": {
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
+    "UiPath.Excel.Activities": "[2.7.2]",
+    "UiPath.Mail.Activities": "[1.7.2]",
+    "UiPath.System.Activities": "[19.10.1]",
+    "UiPath.UIAutomation.Activities": "[19.11.0]"
+  },
+  "Description": "UiPath REFramework Template for cronos",
+  "DisplayPriority": 1,
+  "ExceptionHandlerWorkflow": null,
+  "IconUri": "ReframeworkIcon",
+  "IsBlank": false,
+  "Label": "NewBusinessProcessProjectTemplateLabel",
+  "MainFile": "Main.xaml",
+  "Name": "NewBusinessProcessProjectTemplateTitle",
+  "NewTemplateTitle": "NewBusinessProcessProjectNewTemplateTitle",
+  "PrivateFiles": null,
+  "ProjectProfile": "Developement",
+  "OutputType": "Process",
+  "ExpressionLanguage": "VisualBasic"
+}
